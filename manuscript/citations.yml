@@ -1,0 +1,1322 @@
+Goeva_2024:
+  type: article
+  title: 'HiDDEN: a machine learning method for detection of disease-relevant populations in case-control single-cell transcriptomics data'
+  author:
+  - Goeva, Aleksandrina
+  - Dolan, Michael-John
+  - Luu, Judy
+  - Garcia, Eric
+  - Boiarsky, Rebecca
+  - Gupta, Rajat M.
+  - Macosko, Evan
+  date: 2024-11
+  url: http://dx.doi.org/10.1038/s41467-024-53666-8
+  serial-number:
+    doi: 10.1038/s41467-024-53666-8
+    issn: 2041-1723
+  parent:
+    type: periodical
+    title: Nature Communications
+    publisher: Springer Science, Business Media LLC
+    issue: 1
+    volume: 15
+
+Barre_ada_2024:
+  type: article
+  title: 'Understanding overfitting in random forest for probability estimation: a visualization and simulation study'
+  author:
+  - Barreñada, Lasai
+  - Dhiman, Paula
+  - Timmerman, Dirk
+  - Boulesteix, Anne-Laure
+  - Van Calster, Ben
+  date: 2024-09
+  url: http://dx.doi.org/10.1186/s41512-024-00177-1
+  serial-number:
+    doi: 10.1186/s41512-024-00177-1
+    issn: 2397-7523
+  parent:
+    type: periodical
+    title: Diagnostic and Prognostic Research
+    publisher: Springer Science, Business Media LLC
+    issue: 1
+    volume: 8
+
+Edgar_2002:
+  type: article
+  title: 'Gene Expression Omnibus: NCBI gene expression and hybridization array data repository'
+  author: Edgar, R.
+  date: 2002-01
+  page-range: 207-210
+  url: http://dx.doi.org/10.1093/nar/30.1.207
+  serial-number:
+    doi: 10.1093/nar/30.1.207
+    issn: 1362-4962
+  parent:
+    type: periodical
+    title: Nucleic Acids Research
+    publisher: Oxford University Press (OUP)
+    issue: 1
+    volume: 30
+
+Clough_2023:
+  type: article
+  title: 'NCBI GEO: archive for gene expression and epigenomics data sets: 23-year update'
+  author:
+  - Clough, Emily
+  - Barrett, Tanya
+  - Wilhite, Stephen E
+  - Ledoux, Pierre
+  - Evangelista, Carlos
+  - Kim, Irene F
+  - Tomashevsky, Maxim
+  - Marshall, Kimberly A
+  - Phillippy, Katherine H
+  - Sherman, Patti M
+  - Lee, Hyeseung
+  - Zhang, Naigong
+  - Serova, Nadezhda
+  - Wagner, Lukas
+  - Zalunin, Vadim
+  - Kochergin, Andrey
+  - Soboleva, Alexandra
+  date: 2023-11
+  page-range: D138-D144
+  url: http://dx.doi.org/10.1093/nar/gkad965
+  serial-number:
+    doi: 10.1093/nar/gkad965
+    issn: 1362-4962
+  parent:
+    type: periodical
+    title: Nucleic Acids Research
+    publisher: Oxford University Press (OUP)
+    issue: D1
+    volume: 52
+
+Absinta_2021:
+  type: article
+  title: A lymphocyte–microglia–astrocyte axis in chronic active multiple sclerosis
+  author:
+  - Absinta, Martina
+  - Maric, Dragan
+  - Gharagozloo, Marjan
+  - Garton, Thomas
+  - Smith, Matthew D.
+  - Jin, Jing
+  - Fitzgerald, Kathryn C.
+  - Song, Anya
+  - Liu, Poching
+  - Lin, Jing-Ping
+  - Wu, Tianxia
+  - Johnson, Kory R.
+  - McGavern, Dorian B.
+  - Schafer, Dorothy P.
+  - Calabresi, Peter A.
+  - Reich, Daniel S.
+  date: 2021-09
+  page-range: 709-714
+  url: http://dx.doi.org/10.1038/s41586-021-03892-7
+  serial-number:
+    doi: 10.1038/s41586-021-03892-7
+    issn: 1476-4687
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media LLC
+    issue: 7878
+    volume: 597
+
+Zenodo_2013:
+  type: misc
+  title: Zenodo
+  author:
+  - European Organization For Nuclear Research
+  - OpenAIRE
+  date: 2013
+  publisher: CERN
+  url: https://www.zenodo.org/
+  serial-number:
+    doi: 10.25495/7GXK-RD71
+
+Macnair_2025:
+  type: article
+  title: snRNA-seq stratifies multiple sclerosis patients into distinct white matter glial responses
+  author:
+  - Macnair, Will
+  - Calini, Daniela
+  - Agirre, Eneritz
+  - Bryois, Julien
+  - Jäkel, Sarah
+  - Smith, Rebecca Sherrard
+  - Kukanja, Petra
+  - Stokar-Regenscheit, Nadine
+  - Ott, Virginie
+  - Foo, Lynette C.
+  - Collin, Ludovic
+  - Schippling, Sven
+  - Urich, Eduard
+  - Nutma, Erik
+  - Marzin, Manuel
+  - Ansaloni, Federico
+  - Amor, Sandra
+  - Magliozzi, Roberta
+  - Heidari, Elyas
+  - Robinson, Mark D.
+  - ffrench-Constant, Charles
+  - Castelo-Branco, Gonçalo
+  - Williams, Anna
+  - Malhotra, Dheeraj
+  date: 2025-02
+  page-range: 396-410.e9
+  url: http://dx.doi.org/10.1016/j.neuron.2024.11.016
+  serial-number:
+    doi: 10.1016/j.neuron.2024.11.016
+    issn: 0896-6273
+  parent:
+    type: periodical
+    title: Neuron
+    publisher: Elsevier BV
+    issue: 3
+    volume: 113
+
+Andries_2023:
+  type: article
+  title: Immune stimulation recruits a subset of pro-regenerative macrophages to the retina that promotes axonal regrowth of injured neurons
+  author:
+  - Andries, Lien
+  - Kancheva, Daliya
+  - Masin, Luca
+  - Scheyltjens, Isabelle
+  - Van Hove, Hannah
+  - De Vlaminck, Karen
+  - Bergmans, Steven
+  - Claes, Marie
+  - De Groef, Lies
+  - Moons, Lieve
+  - Movahedi, Kiavash
+  date: 2023-05
+  url: http://dx.doi.org/10.1186/s40478-023-01580-3
+  serial-number:
+    doi: 10.1186/s40478-023-01580-3
+    issn: 2051-5960
+  parent:
+    type: periodical
+    title: Acta Neuropathologica Communications
+    publisher: Springer Science, Business Media LLC
+    issue: 1
+    volume: 11
+
+Fournier_2023:
+  type: article
+  title: Single-Cell Transcriptomics Identifies Brain Endothelium Inflammatory Networks in Experimental Autoimmune Encephalomyelitis
+  author:
+  - Fournier, Antoine Philippe
+  - Tastet, Olivier
+  - Charabati, Marc
+  - Hoornaert, Chloé
+  - Bourbonnière, Lyne
+  - Klement, Wendy
+  - Larouche, Sandra
+  - Tea, Fiona
+  - Wang, Yu Chang
+  - Larochelle, Catherine
+  - Arbour, Nathalie
+  - Ragoussis, Jiannis
+  - Zandee, Stephanie
+  - Prat, Alexandre
+  date: 2023-01
+  url: http://dx.doi.org/10.1212/NXI.0000000000200046
+  serial-number:
+    doi: 10.1212/nxi.0000000000200046
+    issn: 2332-7812
+  parent:
+    type: periodical
+    title: Neurology Neuroimmunology &amp; Neuroinflammation
+    publisher: Ovid Technologies (Wolters Kluwer Health)
+    issue: 1
+    volume: 10
+
+J_kel_2019:
+  type: article
+  title: Altered human oligodendrocyte heterogeneity in multiple sclerosis
+  author:
+  - Jäkel, Sarah
+  - Agirre, Eneritz
+  - Mendanha Falcão, Ana
+  - name: Bruggen
+    given-name: David
+    prefix: van
+  - Lee, Ka Wai
+  - Knuesel, Irene
+  - Malhotra, Dheeraj
+  - ffrench-Constant, Charles
+  - Williams, Anna
+  - Castelo-Branco, Gonçalo
+  date: 2019-01
+  page-range: 543-547
+  url: http://dx.doi.org/10.1038/s41586-019-0903-2
+  serial-number:
+    doi: 10.1038/s41586-019-0903-2
+    issn: 1476-4687
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media LLC
+    issue: 7745
+    volume: 566
+
+Speir_2021:
+  type: article
+  title: 'UCSC Cell Browser: visualize your single-cell data'
+  author:
+  - Speir, Matthew L
+  - Bhaduri, Aparna
+  - Markov, Nikolay S
+  - Moreno, Pablo
+  - Nowakowski, Tomasz J
+  - Papatheodorou, Irene
+  - Pollen, Alex A
+  - Raney, Brian J
+  - Seninge, Lucas
+  - Kent, W James
+  - Haeussler, Maximilian
+  date: 2021-07
+  editor: Kendziorski, Christina
+  page-range: 4578-4580
+  url: http://dx.doi.org/10.1093/bioinformatics/btab503
+  serial-number:
+    doi: 10.1093/bioinformatics/btab503
+    issn: 1367-4811
+  parent:
+    type: periodical
+    title: Bioinformatics
+    publisher: Oxford University Press (OUP)
+    issue: 23
+    volume: 37
+
+Schirmer_2019:
+  type: article
+  title: Neuronal vulnerability and multilineage diversity in multiple sclerosis
+  author:
+  - Schirmer, Lucas
+  - Velmeshev, Dmitry
+  - Holmqvist, Staffan
+  - Kaufmann, Max
+  - Werneburg, Sebastian
+  - Jung, Diane
+  - Vistnes, Stephanie
+  - Stockley, John H.
+  - Young, Adam
+  - Steindel, Maike
+  - Tung, Brian
+  - Goyal, Nitasha
+  - Bhaduri, Aparna
+  - Mayer, Simone
+  - Engler, Jan Broder
+  - Bayraktar, Omer A.
+  - Franklin, Robin J. M.
+  - Haeussler, Maximilian
+  - Reynolds, Richard
+  - Schafer, Dorothy P.
+  - Friese, Manuel A.
+  - Shiow, Lawrence R.
+  - Kriegstein, Arnold R.
+  - Rowitch, David H.
+  date: 2019-07
+  page-range: 75-82
+  url: http://dx.doi.org/10.1038/s41586-019-1404-z
+  serial-number:
+    doi: 10.1038/s41586-019-1404-z
+    issn: 1476-4687
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media LLC
+    issue: 7772
+    volume: 573
+
+Van_Hove_2019:
+  type: article
+  title: A single-cell atlas of mouse brain macrophages reveals unique transcriptional identities shaped by ontogeny and tissue environment
+  author:
+  - Van Hove, Hannah
+  - Martens, Liesbet
+  - Scheyltjens, Isabelle
+  - De Vlaminck, Karen
+  - Pombo Antunes, Ana Rita
+  - De Prijck, Sofie
+  - Vandamme, Niels
+  - De Schepper, Sebastiaan
+  - Van Isterdael, Gert
+  - Scott, Charlotte L.
+  - Aerts, Jeroen
+  - Berx, Geert
+  - Boeckxstaens, Guy E.
+  - Vandenbroucke, Roosmarijn E.
+  - Vereecke, Lars
+  - Moechars, Diederik
+  - Guilliams, Martin
+  - Van Ginderachter, Jo A.
+  - Saeys, Yvan
+  - Movahedi, Kiavash
+  date: 2019-05
+  page-range: 1021-1035
+  url: http://dx.doi.org/10.1038/s41593-019-0393-4
+  serial-number:
+    doi: 10.1038/s41593-019-0393-4
+    issn: 1546-1726
+  parent:
+    type: periodical
+    title: Nature Neuroscience
+    publisher: Springer Science, Business Media LLC
+    issue: 6
+    volume: 22
+
+Oesinghaus_2025:
+  type: article
+  title: A single-cell cytokine dictionary of human peripheral blood
+  author:
+  - Oesinghaus, Lukas
+  - Becker, Sören
+  - Vornholz, Larsen
+  - Papalexi, Efthymia
+  - Pangallo, Joey
+  - Moinfar, Amir Ali
+  - Liu, Jenni
+  - Fleur, Alyssa La
+  - Shulman, Maiia
+  - Marrujo, Simone
+  - Hariadi, Bryan
+  - Curca, Crina
+  - Suyama, Alexa
+  - Nigos, Maria
+  - Sanderson, Oliver
+  - Nguyen, Hoai
+  - Tran, Vuong K.
+  - Sapre, Ajay A.
+  - Kaplan, Olivia
+  - Schroeder, Sarah
+  - Salvino, Alec
+  - Gallareta-Olivares, Guillermo
+  - Koehler, Ryan
+  - Geiss, Gary
+  - Rosenberg, Alexander B.
+  - Roco, Charles M.
+  - Seelig, Georg
+  - Theis, Fabian J.
+  date: 2025-12
+  url: http://dx.doi.org/10.64898/2025.12.12.693897
+  serial-number:
+    doi: 10.64898/2025.12.12.693897
+  parent:
+    type: periodical
+    publisher: openRxiv
+
+CZCXG_2024:
+  type: article
+  title: 'CZ CELLxGENE Discover: a single-cell data platform for scalable exploration, analysis and modeling of aggregated data'
+  author:
+  - Abdulla, Shibla
+  - Aevermann, Brian
+  - Assis, Pedro
+  - Badajoz, Seve
+  - Bell, Sidney M
+  - Bezzi, Emanuele
+  - Cakir, Batuhan
+  - Chaffer, Jim
+  - Chambers, Signe
+  - Cherry, J Michael
+  - Chi, Tiffany
+  - Chien, Jennifer
+  - Dorman, Leah
+  - Garcia-Nieto, Pablo
+  - Gloria, Nayib
+  - Hastie, Mim
+  - Hegeman, Daniel
+  - Hilton, Jason
+  - Huang, Timmy
+  - Infeld, Amanda
+  - Istrate, Ana-Maria
+  - Jelic, Ivana
+  - Katsuya, Kuni
+  - Kim, Yang Joon
+  - Liang, Karen
+  - Lin, Mike
+  - Lombardo, Maximilian
+  - Marshall, Bailey
+  - Martin, Bruce
+  - McDade, Fran
+  - Megill, Colin
+  - Patel, Nikhil
+  - Predeus, Alexander
+  - Raymor, Brian
+  - Robatmili, Behnam
+  - Rogers, Dave
+  - Rutherford, Erica
+  - Sadgat, Dana
+  - Shin, Andrew
+  - Small, Corinn
+  - Smith, Trent
+  - Sridharan, Prathap
+  - Tarashansky, Alexander
+  - Tavares, Norbert
+  - Thomas, Harley
+  - Tolopko, Andrew
+  - Urisko, Meghan
+  - Yan, Joyce
+  - Yeretssian, Garabet
+  - Zamanian, Jennifer
+  - Mani, Arathi
+  - Cool, Jonah
+  - Carr, Ambrose
+  date: 2024-11
+  page-range: D886-D900
+  url: http://dx.doi.org/10.1093/nar/gkae1142
+  serial-number:
+    doi: 10.1093/nar/gkae1142
+    issn: 1362-4962
+  parent:
+    type: periodical
+    title: Nucleic Acids Research
+    publisher: Oxford University Press (OUP)
+    issue: D1
+    volume: 53
+
+Wilk_2020:
+  type: article
+  title: A single-cell atlas of the peripheral immune response in patients with severe COVID-19
+  author:
+  - Wilk, Aaron J.
+  - Rustagi, Arjun
+  - Zhao, Nancy Q.
+  - Roque, Jonasel
+  - Martínez-Colón, Giovanny J.
+  - McKechnie, Julia L.
+  - Ivison, Geoffrey T.
+  - Ranganath, Thanmayi
+  - Vergara, Rosemary
+  - Hollis, Taylor
+  - Simpson, Laura J.
+  - Grant, Philip
+  - Subramanian, Aruna
+  - Rogers, Angela J.
+  - Blish, Catherine A.
+  date: 2020-06
+  page-range: 1070-1076
+  url: http://dx.doi.org/10.1038/s41591-020-0944-y
+  serial-number:
+    doi: 10.1038/s41591-020-0944-y
+    issn: 1546-170X
+  parent:
+    type: periodical
+    title: Nature Medicine
+    publisher: Springer Science, Business Media LLC
+    issue: 7
+    volume: 26
+
+Ahlmann_Eltze_2023:
+  type: article
+  title: Comparison of transformations for single-cell RNA-seq data
+  author:
+  - Ahlmann-Eltze, Constantin
+  - Huber, Wolfgang
+  date: 2023-04
+  page-range: 665-672
+  url: http://dx.doi.org/10.1038/s41592-023-01814-1
+  serial-number:
+    doi: 10.1038/s41592-023-01814-1
+    issn: 1548-7105
+  parent:
+    type: periodical
+    title: Nature Methods
+    publisher: Springer Science, Business Media LLC
+    issue: 5
+    volume: 20
+
+Lause_2021:
+  type: article
+  title: Analytic Pearson residuals for normalization of single-cell RNA-seq UMI data
+  author:
+  - Lause, Jan
+  - Berens, Philipp
+  - Kobak, Dmitry
+  date: 2021-09
+  url: http://dx.doi.org/10.1186/s13059-021-02451-7
+  serial-number:
+    doi: 10.1186/s13059-021-02451-7
+    issn: 1474-760X
+  parent:
+    type: periodical
+    title: Genome Biology
+    publisher: Springer Science, Business Media LLC
+    issue: 1
+    volume: 22
+
+Ahlmann_Eltze_2020:
+  type: article
+  title: 'glmGamPoi: fitting Gamma-Poisson generalized linear models on single cell count data'
+  author:
+  - Ahlmann-Eltze, Constantin
+  - Huber, Wolfgang
+  date: 2020-12
+  editor: Anthony, Mathelier
+  page-range: 5701-5702
+  url: http://dx.doi.org/10.1093/bioinformatics/btaa1009
+  serial-number:
+    doi: 10.1093/bioinformatics/btaa1009
+    issn: 1367-4811
+  parent:
+    type: periodical
+    title: Bioinformatics
+    publisher: Oxford University Press (OUP)
+    issue: 24
+    volume: 36
+
+scikit-learn:
+  type: article
+  title: 'Scikit-learn: Machine Learning in {P}ython'
+  author:
+  - Pedregosa, F.
+  - Varoquaux, G.
+  - Gramfort, A.
+  - Michel, V.
+  - Thirion, B.
+  - Grisel, O.
+  - Blondel, M.
+  - Prettenhofer, P.
+  - Weiss, R.
+  - Dubourg, V.
+  - Vanderplas, J.
+  - Passos, A.
+  - Cournapeau, D.
+  - Brucher, M.
+  - Perrot, M.
+  - Duchesnay, E.
+  date: 2011
+  page-range: 2825-2830
+  parent:
+    type: periodical
+    title: Journal of Machine Learning Research
+    volume: 12
+
+Lopez_2018:
+  type: article
+  title: Deep generative modeling for single-cell transcriptomics
+  author:
+  - Lopez, Romain
+  - Regier, Jeffrey
+  - Cole, Michael B.
+  - Jordan, Michael I.
+  - Yosef, Nir
+  date: 2018-11
+  page-range: 1053-1058
+  url: http://dx.doi.org/10.1038/s41592-018-0229-2
+  serial-number:
+    doi: 10.1038/s41592-018-0229-2
+    issn: 1548-7105
+  parent:
+    type: periodical
+    title: Nature Methods
+    publisher: Springer Science, Business Media LLC
+    issue: 12
+    volume: 15
+
+Gautier_2023:
+  type: misc
+  title: rpy2
+  author: Gautier, Laurent
+  date: 2023
+  url: https://github.com/rpy2/rpy2/releases/tag/RELEASE_3_6_5
+  serial-number:
+    version: 3.6.5
+
+Cardin_2025:
+  type: misc
+  title: cappa
+  author: Cardin, Dan
+  date: 2025
+  url: https://github.com/DanCardin/cappa/releases/tag/v0.31.0
+  serial-number:
+    version: v0.31.0
+
+pydatasphinx_2025:
+  type: misc
+  title: pydata sphinx theme
+  author: Pydata Sphinx Theme Contributors
+  date: 2024
+  url: https://github.com/pydata/pydata-sphinx-theme/releases/tag/v0.16.1
+  serial-number:
+    version: v0.16.1
+
+sphinxautobuild_2025:
+  type: misc
+  title: sphinx autobuild
+  author: Sphinx Autobuild Contributors
+  date: 2025
+  url: https://github.com/sphinx-doc/sphinx-autobuild/releases/tag/2025.08.25
+  serial-number:
+    version: 2025.08.25
+
+Gabor_2026:
+  type: misc
+  title: sphinx autodoc typehints
+  author: Bernát Gábor
+  date: 2025
+  url: https://github.com/tox-dev/sphinx-autodoc-typehints/releases/tag/3.9.8
+  serial-number:
+    version: 3.9.8
+
+mystnb_2026:
+  type: misc
+  title: myst nb
+  author: Executable Books Project
+  date: 2026
+  url: https://github.com/executablebooks/MyST-NB/releases/tag/v1.4.0
+  serial-number:
+    version: v1.4.0
+
+mystparser_2026:
+  type: misc
+  title: myst parser
+  author: Executable Books Project
+  date: 2026
+  url: https://github.com/executablebooks/MyST-parser/releases/tag/v5.0.0
+  serial-number:
+    version: v5.0.0
+
+jupytext_2026:
+  type: misc
+  title: jupytext
+  author: Jupytext Contributors
+  date: 2026
+  url: https://github.com/mwouts/jupytext/releases/tag/v1.19.1
+  serial-number:
+    version: v1.19.1
+
+ipykernel_2026:
+  type: misc
+  title: ipykernel
+  author: Ipykernel Contributors
+  date: 2026
+  url: https://github.com/ipython/ipykernel/releases/tag/v7.2.0
+  serial-number:
+    version: v7.2.0
+
+uv_2026:
+  type: misc
+  title: uv
+  author: Uv Contributors
+  date: 2026
+  url: https://github.com/astral-sh/uv/releases/tag/0.10.11
+  serial-number:
+    version: 0.10.11
+
+memray_2026:
+  type: misc
+  title: memray
+  author: Memray Contributors
+  date: 2026
+  url: https://github.com/bloomberg/memray/releases/tag/v1.19.2
+  serial-number:
+    version: v1.19.2
+
+ipywidgets_2025:
+  type: misc
+  title: ipywidgets
+  author: Ipywidgets Contributors
+  date: 2026
+  url: https://github.com/jupyter-widgets/ipywidgets/releases/tag/8.1.8
+  serial-number:
+    version: 8.1.8
+
+Korsunsky_2019:
+  type: article
+  title: Fast, sensitive and accurate integration of single-cell data with Harmony
+  author:
+  - Korsunsky, Ilya
+  - Millard, Nghia
+  - Fan, Jean
+  - Slowikowski, Kamil
+  - Zhang, Fan
+  - Wei, Kevin
+  - Baglaenko, Yuriy
+  - Brenner, Michael
+  - Loh, Po-ru
+  - Raychaudhuri, Soumya
+  date: 2019-11
+  page-range: 1289-1296
+  url: http://dx.doi.org/10.1038/s41592-019-0619-0
+  serial-number:
+    doi: 10.1038/s41592-019-0619-0
+    issn: 1548-7105
+  parent:
+    type: periodical
+    title: Nature Methods
+    publisher: Springer Science, Business Media LLC
+    issue: 12
+    volume: 16
+
+Arpack_1998:
+  type: chapter
+  date: 1998-01
+  page-range: 1-7
+  url: http://dx.doi.org/10.1137/1.9780898719628.ch1
+  serial-number:
+    doi: 10.1137/1.9780898719628.ch1
+    isbn: '9780898719628'
+  parent:
+    type: book
+    title: ARPACK Users’ Guide
+    publisher: Society for Industrial, Applied Mathematics
+
+Cichoki_2009:
+  type: article
+  title: Fast Local Algorithms for Large Scale Nonnegative Matrix and Tensor Factorizations
+  author:
+  - Cichocki, Andrzej
+  - Phan, Anh-Huy
+  date: 2009
+  page-range: 708-721
+  url: http://dx.doi.org/10.1587/transfun.E92.A.708
+  serial-number:
+    doi: 10.1587/transfun.e92.a.708
+    issn: 1745-1337
+  parent:
+    type: periodical
+    title: IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences
+    publisher: Institute of Electronics, Information, Communications Engineers (IEICE)
+    issue: 3
+
+Dunipace_2022:
+  type: misc
+  title: 'approxOT: Approximate and Exact Optimal Transport Methods'
+  author: Dunipace, Eric
+  date: 2022-01
+  publisher: The R Foundation
+  url: http://dx.doi.org/10.32614/CRAN.package.approxOT
+  serial-number:
+    doi: 10.32614/cran.package.approxot
+vanRossum_1991:
+  type: article
+  title: Interactively testing remote servers using the Python programming language
+  author:
+  - name: Rossum
+    given-name: Guido
+    prefix: van
+  - name: Boer
+    given-name: Jelke
+    prefix: de
+  date: 1991-12
+  page-range: 283-304
+  parent:
+    type: periodical
+    title: CWI Quarterly
+    issue: 4
+    volume: 4
+
+R_2026:
+  type: reference
+  title: 'R: A Language and Environment for Statistical Computing'
+  author: R Core Team
+  date: 2026
+  publisher:
+    name: null
+    location: Vienna, Austria
+  organization: R Foundation for Statistical Computing
+  url: https://www.r-project.org/
+
+S7_2025:
+  type: reference
+  title: 'S7: An Object Oriented System Meant to Become a Successor to S3 and S4'
+  author:
+  - Vaughan, Davis
+  - Hester, Jim
+  - Kalinowski, Tomasz
+  - Landau, Will
+  - Lawrence, Michael
+  - Maechler, Martin
+  - Tierney, Luke
+  - Wickham, Hadley
+  date: 2025
+  url: https://cran.r-project.org/package=S7
+  serial-number:
+    doi: 10.32614/CRAN.package.S7
+  note: R package version 0.2.1
+
+Virshup_2024:
+  type: article
+  title: 'anndata: Access and store annotated data matrices'
+  author:
+  - Virshup, Isaac
+  - Rybakov, Sergei
+  - Theis, Fabian J.
+  - Angerer, Philipp
+  - Wolf, F. Alexander
+  date: 2024-09
+  page-range: '4371'
+  url: http://dx.doi.org/10.21105/joss.04371
+  serial-number:
+    doi: 10.21105/joss.04371
+    issn: 2475-9066
+  parent:
+    type: periodical
+    title: Journal of Open Source Software
+    publisher: The Open Journal
+    issue: 101
+    volume: 9
+
+Satija_2015:
+  type: article
+  title: Spatial reconstruction of single-cell gene expression data
+  author:
+  - Satija, Rahul
+  - Farrell, Jeffrey A
+  - Gennert, David
+  - Schier, Alexander F
+  - Regev, Aviv
+  date: 2015
+  page-range: 495-502
+  url: https://doi.org/10.1038/nbt.3192
+  serial-number:
+    doi: 10.1038/nbt.3192
+  parent:
+    type: periodical
+    title: Nature Biotechnology
+    volume: 33
+
+Amezquita_2020:
+  type: article
+  title: Orchestrating single-cell analysis with Bioconductor
+  author:
+  - Amezquita, Robert
+  - Lun, Aaron
+  - Becht, Etienne
+  - Carey, Vince
+  - Carpp, Lindsay
+  - Geistlinger, Ludwig
+  - Marini, Federico
+  - Rue-Albrecht, Kevin
+  - Risso, Davide
+  - Soneson, Charlotte
+  - Waldron, Levi
+  - Pages, Herve
+  - Smith, Mike
+  - Huber, Wolfgang
+  - Morgan, Martin
+  - Gottardo, Raphael
+  - Hicks, Stephanie
+  date: 2020
+  page-range: 137-145
+  url: https://www.nature.com/articles/s41592-019-0654-x
+  parent:
+    type: periodical
+    title: Nature Methods
+    volume: 17
+
+seuratobject_2025:
+  type: reference
+  title: 'SeuratObject: Data Structures for Single Cell Data'
+  author:
+  - Hoffman, Paul
+  - Satija, Rahul
+  - Collins, David
+  - Hao, Yuhan
+  - Hartman, Austin
+  - Molla, Gesmira
+  - Butler, Andrew
+  - Stuart, Tim
+  date: 2025
+  url: https://cran.r-project.org/package=SeuratObject
+  serial-number:
+    doi: 10.32614/CRAN.package.SeuratObject
+  note: R package version 5.3.0
+
+irlba_2026:
+  type: reference
+  title: 'irlba: Fast Truncated Singular Value Decomposition and Principal Components Analysis for Large Dense and Sparse Matrices'
+  author:
+  - Baglama, Jim
+  - Reichel, Lothar
+  - Lewis, B. W.
+  date: 2026
+  url: https://cran.r-project.org/package=irlba
+  serial-number:
+    doi: 10.32614/CRAN.package.irlba
+  note: R package version 2.3.7
+
+Kang_2017:
+  type: article
+  title: Multiplexed droplet single-cell RNA-sequencing using natural genetic variation
+  author:
+  - Kang, Hun Min
+  - Subramaniam, Meena
+  - Targ, Sasha
+  - Nguyen, Michelle
+  - Maliskova, Lenka
+  - McCarthy, Elizabeth
+  - Wan, Eunice
+  - Wong, Simon
+  - Byrnes, Lauren
+  - Lanata, Cristina M
+  - Gate, Rachel E
+  - Mostafavi, Sara
+  - Marson, Alexandar
+  - Zaitlen, Noah
+  - Criswell, Lindsey A
+  - Ye, Chun Jimmie
+  date: 2017
+  url: https://www.nature.com/articles/nbt.4042
+  serial-number:
+    doi: doi:10.1038/nbt.4042
+  parent:
+    type: periodical
+    title: Nature Biotechnology
+
+pkgdown_2025:
+  type: reference
+  title: 'pkgdown: Make Static HTML Documentation for a Package'
+  author:
+  - Wickham, Hadley
+  - Hesselberth, Jay
+  - Salmon, Maëlle
+  - Roy, Olivier
+  - Brüggemann, Salim
+  date: 2025
+  url: https://pkgdown.r-lib.org/
+  note: R package version 2.2.0
+
+devtools_2026:
+  type: reference
+  title: 'devtools: Tools to Make Developing R Packages Easier'
+  author:
+  - Wickham, Hadley
+  - Hester, Jim
+  - Chang, Winston
+  - Bryan, Jennifer
+  date: 2026
+  url: https://cran.r-project.org/package=devtools
+  serial-number:
+    doi: 10.32614/CRAN.package.devtools
+  note: R package version 2.5.0
+
+lintr_2025:
+  type: article
+  title: Static Code Analysis for R
+  author:
+  - Hester, Jim
+  - Angly, Florent
+  - Chirico, Michael
+  - Hyde, Russ
+  - Kun, Ren
+  - Patil, Indrajeet
+  - Rosenstock, Alexander
+  date: 2025
+  page-range: '7240'
+  serial-number:
+    doi: 10.21105/joss.07240
+  parent:
+    type: periodical
+    title: '{Journal of Open Source Software}'
+    publisher: '{Open Journals}'
+    issue: 108
+    volume: 10
+
+pak_2025:
+  type: reference
+  title: 'pak: Another Approach to Package Installation'
+  author:
+  - Csárdi, Gábor
+  - Hester, Jim
+  date: 2025
+  url: https://cran.r-project.org/package=pak
+  serial-number:
+    doi: 10.32614/CRAN.package.pak
+  note: R package version 0.9.2
+
+scipy_2020:
+  type: article
+  title: '{SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python}'
+  author:
+  - Virtanen, Pauli
+  - Gommers, Ralf
+  - Oliphant, Travis E.
+  - Haberland, Matt
+  - Reddy, Tyler
+  - Cournapeau, David
+  - Burovski, Evgeni
+  - Peterson, Pearu
+  - Weckesser, Warren
+  - Bright, Jonathan
+  - van der Walt, Stéfan J.
+  - Brett, Matthew
+  - Wilson, Joshua
+  - Millman, K. Jarrod
+  - Mayorov, Nikolay
+  - Nelson, Andrew R. J.
+  - Jones, Eric
+  - Kern, Robert
+  - Larson, Eric
+  - Carey, C J
+  - Polat, İlhan
+  - Feng, Yu
+  - Moore, Eric W.
+  - VanderPlas, Jake
+  - Laxalde, Denis
+  - Perktold, Josef
+  - Cimrman, Robert
+  - Henriksen, Ian
+  - Quintero, E. A.
+  - Harris, Charles R.
+  - Archibald, Anne M.
+  - Ribeiro, Antônio H.
+  - Pedregosa, Fabian
+  - van Mulbregt, Paul
+  - SciPy 1.0 Contributors
+  date: 2020
+  page-range: 261-272
+  serial-number:
+    doi: 10.1038/s41592-019-0686-2
+  parent:
+    type: periodical
+    title: Nature Methods
+    volume: 17
+
+reticulate_2026:
+  type: reference
+  title: 'reticulate: Interface to ''Python'''
+  author:
+  - Ushey, Kevin
+  - Allaire, JJ
+  - Tang, Yuan
+  date: 2026
+  url: https://cran.r-project.org/package=reticulate
+  serial-number:
+    doi: 10.32614/CRAN.package.reticulate
+  note: R package version 1.45.0
+
+Wolf_2018:
+  type: article
+  title: 'SCANPY: large-scale single-cell gene expression data analysis'
+  author:
+  - Wolf, F. Alexander
+  - Angerer, Philipp
+  - Theis, Fabian J.
+  date: 2018-02
+  url: http://dx.doi.org/10.1186/s13059-017-1382-0
+  serial-number:
+    doi: 10.1186/s13059-017-1382-0
+    issn: 1474-760X
+  parent:
+    type: periodical
+    title: Genome Biology
+    publisher: Springer Science, Business Media LLC
+    issue: 1
+    volume: 19
+
+Harris_2020:
+  type: article
+  title: Array programming with {NumPy}
+  author:
+  - Harris, Charles R.
+  - Millman, K. Jarrod
+  - name: Walt
+    given-name: Stéfan J.
+    prefix: van der
+  - Gommers, Ralf
+  - Virtanen, Pauli
+  - Cournapeau, David
+  - Wieser, Eric
+  - Taylor, Julian
+  - Berg, Sebastian
+  - Smith, Nathaniel J.
+  - Kern, Robert
+  - Picus, Matti
+  - Hoyer, Stephan
+  - name: Kerkwijk
+    given-name: Marten H.
+    prefix: van
+  - Brett, Matthew
+  - Haldane, Allan
+  - name: Río
+    given-name: Jaime Fernández
+    prefix: del
+  - Wiebe, Mark
+  - Peterson, Pearu
+  - Gérard-Marchant, Pierre
+  - Sheppard, Kevin
+  - Reddy, Tyler
+  - Weckesser, Warren
+  - Abbasi, Hameer
+  - Gohlke, Christoph
+  - Oliphant, Travis E.
+  date: 2020-09
+  page-range: 357-362
+  url: https://doi.org/10.1038/s41586-020-2649-2
+  serial-number:
+    doi: 10.1038/s41586-020-2649-2
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media {LLC}
+    issue: 7825
+    volume: 585
+
+Mckinney_2010:
+  type: article
+  title: ' {D}ata {S}tructures for {S}tatistical {C}omputing in {P}ython '
+  author: McKinney, Wes
+  date: 2010
+  editor:
+  - name: Walt
+    given-name: Stéfan
+    prefix: van der
+  - Millman, Jarrod
+  page-range: 56-61
+  serial-number:
+    doi: ' 10.25080/Majora-92bf1922-00a '
+  parent:
+    type: proceedings
+    title: ' {P}roceedings of the 9th {P}ython in {S}cience {C}onference '
+
+Satyanarayan_2017:
+  type: article
+  title: 'Vega-Lite: A Grammar of Interactive Graphics'
+  author:
+  - Satyanarayan, Arvind
+  - Moritz, Dominik
+  - Wongsuphasawat, Kanit
+  - Heer, Jeffrey
+  date: 2017
+  page-range: 341-350
+  parent:
+    type: periodical
+    title: IEEE transactions on visualization and computer graphics
+    publisher: IEEE
+    issue: 1
+    volume: 23
+
+VanderPlas_2018:
+  type: article
+  title: 'Altair: Interactive Statistical Visualizations for Python'
+  author:
+  - VanderPlas, Jacob
+  - Granger, Brian
+  - Heer, Jeffrey
+  - Moritz, Dominik
+  - Wongsuphasawat, Kanit
+  - Satyanarayan, Arvind
+  - Lees, Eitan
+  - Timofeev, Ilia
+  - Welsh, Ben
+  - Sievert, Scott
+  date: 2018
+  page-range: '1057'
+  url: https://doi.org/10.21105/joss.01057
+  serial-number:
+    doi: 10.21105/joss.01057
+  parent:
+    type: periodical
+    title: Journal of Open Source Software
+    publisher: The Open Journal
+    issue: 32
+    volume: 3
+
+sphinx_2025:
+  type: misc
+  title: 'sphinx-doc/sphinx: Sphinx 9.1.0'
+  author:
+  - name: KOMIYA
+    prefix: Takeshi
+  - name: Brandl
+    prefix: Georg
+  - name: Turner
+    prefix: Adam
+  - name: B.
+    prefix: Jean-François
+  - name: SHIMIZUKAWA
+    prefix: Takayuki
+  - name: Andersen
+    prefix: Jakob Lykke
+  - name: Neuhäuser
+    prefix: Daniel
+  - name: Finucane
+    prefix: Stephen
+  - name: Lehmann
+    prefix: Robert
+  - jacobmason
+  - name: Kampik
+    prefix: Timotheus
+  - name: Addison
+    prefix: James
+  - name: Magin
+    prefix: Justus
+  - name: Dufresne
+    prefix: Jon
+  - name: Waltman
+    prefix: Jonathan
+  - danieleades
+  - name: Rodríguez
+    prefix: Juan Luis Cano
+  - name: Ronacher
+    prefix: Armin
+  - name: Geier
+    prefix: Matthias
+  - name: Shachnev
+    prefix: Dmitry
+  - name: Shibukawa
+    prefix: Yoshiki
+  - name: Tran
+    prefix: Bénédikt
+  - name: Dangoor
+    prefix: Adam
+  - name: Sewell
+    prefix: Chris
+  - name: Ruana
+    prefix: Rob
+  - name: Virtanen
+    prefix: Pauli
+  - name: Hoffmann
+    prefix: Tim
+  - name: Liška
+    prefix: Martin
+  - name: Freitag
+    prefix: François
+  date: 2025
+  publisher: Zenodo
+  url: https://zenodo.org/doi/10.5281/zenodo.7857310
+  serial-number:
+    doi: 10.5281/ZENODO.7857310
+
+Ahlmann_Eltze_2025:
+  type: article
+  title: Analysis of multi-condition single-cell data with latent embedding multivariate regression
+  author:
+  - Ahlmann-Eltze, Constantin
+  - Huber, Wolfgang
+  date: 2025-01
+  page-range: 659-667
+  url: http://dx.doi.org/10.1038/s41588-024-01996-0
+  serial-number:
+    doi: 10.1038/s41588-024-01996-0
+    issn: 1546-1718
+  parent:
+    type: periodical
+    title: Nature Genetics
+    publisher: Springer Science, Business Media LLC
+    issue: 3
+    volume: 57
+
+Wood_2004:
+  type: article
+  title: Stable and efficient multiple smoothing parameter estimation for generalized additive models
+  author: Wood, S. N.
+  date: 2004
+  page-range: 673-686
+  serial-number:
+    doi: 10.1198/016214504000000980
+  parent:
+    type: periodical
+    title: Journal of the American Statistical Association
+    issue: 467
+    volume: 99
+
